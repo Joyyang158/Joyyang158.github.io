@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the second-year master student from [NYU Center for Data Science](https://cds.nyu.edu). 
+I am a second-year Master's student at the [NYU Center for Data Science](https://cds.nyu.edu). My research focuses on enhancing the reliability of large language models (LLMs), addressing issues such as hallucinations, privacy leakage, and overconfidence. Additionally, I am interested in better fine-tuning and alignment methods to improve LLM performance and reliability. Speeding up inference to enhance LLM efficiency is also one of my research interests.
 
 A data-driven personal website
 ======
