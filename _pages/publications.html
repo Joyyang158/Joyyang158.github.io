@@ -24,25 +24,20 @@ author_profile: true
     <li>
       <!-- Title linking directly to the paperurl, and if missing, link to the post permalink -->
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">{{ post.title }}</a>.
+        <a href="{{ post.paperurl }}">{{ post.title }}</a>
       {% else %}
-        <a href="{{ post.permalink }}">{{ post.title }}</a>.
+        {{ post.title }}
       {% endif %}
+
+      <br/>
       
+      <!-- Authors list -->
+      {{ post.authors }}
+
       <br/>
 
-      <!-- Authors list -->
-      {{ post.authors }}. 
-      
-      <br/>
-      
-      <!-- Venue and date -->
+      <!-- Venue and year -->
       <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.
-      
-      <!-- Bib link, if available -->
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">[bib]</a>
-      {% endif %}
     </li>
   </ul>
   
