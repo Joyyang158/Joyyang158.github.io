@@ -1,11 +1,14 @@
 ---
-title: "[Samsung Research America](#)"
+title: "Samsung Research America"
 collection: work
 type: "Internship"
 permalink: /work/2024-internship-sra
+start_date: 2024-05-01
+end_date: 2024-08-01
 venue: "Samsung Research America, Mountain View"
 date: 2024-05-01
-location: "Mountain View, US"
+location: "Mountain View, CA"
+url: "/teaching/2024-spring-nlp-workshop"
 ---
 
 Researcher Intern (NLP Focused), *Samsung Research America, Mountain View*, May 2024 - Aug. 2024  
