@@ -39,6 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
+          <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
           <p>{{ post.type }}, <i>{{ post.venue }}</i>, 
           {% if post.start_date and post.end_date %}
             {{ post.start_date | date: "%B %Y" }} - {{ post.end_date | date: "%B %Y" }}
