@@ -2,11 +2,12 @@
 title: "PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'https://aclanthology.org/2023.emnlp-main.326'
+permalink: /publication/2024-prca-llms-for-retrieval-qa
+excerpt: 'This paper discusses fitting black-box large language models for retrieval question answering using a pluggable reward-driven contextual adapter.'
+date: 2024
+venue: 'arXiv:2409.12822 preprint, 2024'
+authors: 'Jiaxin Wen, Ruiqi Zhong, Akbir Khan, Ethan Perez, Jacob Steinhardt, Minlie Huang, Sam Boman, He He, Shi Feng'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+- **Jiaxin Wen**, Ruiqi Zhong, Akbir Khan, Ethan Perez, Jacob Steinhardt, Minlie Huang, Sam Boman, He He, and Shi Feng.  
+**arXiv:2409.12822 preprint, 2024**. [bib](#)
