@@ -7,5 +7,5 @@ excerpt: 'This paper discusses mitigating overconfidence bias in large language 
 date: 2024-01-05
 venue: 'arXiv preprint arXiv:2405.16856'
 authors: '<u>Haoyan Yang</u>, Yixuan Wang, Xu Xingyin, Hanyuan Zhang, Yirong Bian'
-paperurl: 'https://arxiv.org/abs/2405.16856'
+paperurl: 'https://arxiv.org/pdf/2405.16856'
 ---
