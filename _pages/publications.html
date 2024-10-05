@@ -7,11 +7,37 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Group publications by year -->
-{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
-{% assign current_year = '' %}
+<!-- Separate publications with and without date -->
+{% assign publications_with_date = site.publications | reject: 'date', nil | sort: 'date' | reverse %}
+{% assign publications_without_date = site.publications | where: 'date', nil %}
 
-{% for post in sorted_publications %}
+<!-- Display publications without date first -->
+<ul>
+  {% for post in publications_without_date %}
+    <li>
+      <!-- Title linking directly to the paperurl, and if missing, link to the post permalink -->
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+
+      <br/>
+      
+      <!-- Authors list -->
+      {{ post.authors }}
+
+      <br/>
+
+      <!-- Venue -->
+      <em>{{ post.venue }}</em>.
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- Then display publications with date -->
+{% assign current_year = '' %}
+{% for post in publications_with_date %}
   {% assign year = post.date | date: "%Y" %}
   
   <!-- Check if we're in a new year and need to print it -->
