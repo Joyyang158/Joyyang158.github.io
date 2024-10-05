@@ -1,8 +1,8 @@
 ---
-title: "[Samsung Research America](https://sra.samsung.com)"
+title: "Samsung Research America"
 collection: work
 type: "Researcher Intern (LLMs Focused), advised by [Ting Hua](https://t7hua.github.io) and co-advised by [Shangqian Gao](https://gaosh.github.io)"
-permalink: https://sra.samsung.com
+permalink: /work/2024-internship-sra
 start_date: 2024-05-20
 end_date: 2024-08-23
 venue: "Mountain View, CA"
