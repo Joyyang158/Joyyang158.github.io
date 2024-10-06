@@ -27,19 +27,18 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.link }}" class="external-link"><i class="fa fa-link" aria-hidden="true" title="External link"></i></a>
       {% endif %}
     </h2>
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p>{{ post.type }}</p>
           <p><i>{{ post.location }}</i>, 
           {% if post.start_date and post.end_date %}
             {{ post.start_date | date: "%B %Y" }} - {{ post.end_date | date: "%B %Y" }}
