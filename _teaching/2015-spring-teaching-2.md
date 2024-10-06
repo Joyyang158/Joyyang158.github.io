@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "NYU Langone Health"
+collection: work
+start_date: 2024-03-20
+end_date: Present
+location: "Mountain View"
+date: 2024-05-01
+link: https://med.nyu.edu
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Research Assistant (NLP for Healthcare Focused), advised by <a href="https://seyiqi.github.io" target="_blank">Yiqiu Shen</a>.
