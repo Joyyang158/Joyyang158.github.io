@@ -1,11 +1,9 @@
 ---
 title: "Samsung Research America"
 collection: work
-type: "Researcher Intern (LLMs Focused)"
-permalink: https://sra.samsung.com
 start_date: 2024-05-20
 end_date: 2024-08-23
-venue: "Mountain View, CA"
+location: "Mountain View, CA"
 date: 2024-05-01
 url: https://sra.samsung.com
 ---
