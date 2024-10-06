@@ -7,4 +7,4 @@ location: "Shenzhen"
 link: https://group.pingan.com
 ---
 
-Research Assistant (NLP for Healthcare Focused), advised by Zhitao Li.
+Algorithm Engineer Intern (NLP Focused), advised by Zhitao Li.
