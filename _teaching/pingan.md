@@ -7,4 +7,4 @@ location: "Shenzhen"
 link: https://group.pingan.com
 ---
 
-Research Assistant (NLP for Healthcare Focused), advised by <a href="https://seyiqi.github.io" target="_blank">Zhitao Li</a>.
+Research Assistant (NLP for Healthcare Focused), advised by Zhitao Li.
