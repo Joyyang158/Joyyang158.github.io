@@ -3,7 +3,7 @@ title: "Samsung Research America"
 collection: work
 start_date: 2024-05-20
 end_date: 2024-08-23
-location: "Mountain View / CA"
+location: "Mountain View"
 date: 2024-05-01
 url: https://sra.samsung.com
 ---
