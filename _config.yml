@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Haoyan Yang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haoyan Yang"
 description              : &description "personal description"
 url                      : https://joyyang158.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
