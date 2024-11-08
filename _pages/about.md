@@ -14,4 +14,4 @@ I am a second-year Master's student at the [NYU Center for Data Science](https:/
 - Better Fine-Tuning and Alignment Methods
 - Efficient Training and Inference
 
-You are welcome to explore my [publications](publications/), [professional experience](teaching/), and [CV](assets/CV_HaoyanYang.pdf) for further details on my work and research.
+**I am actively seeking PhD opportunities for Fall 2025**. You are welcome to explore my [publications](publications/), [professional experience](teaching/), and [CV](assets/CV_HaoyanYang.pdf) for further details on my work and research.
