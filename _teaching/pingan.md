@@ -7,4 +7,4 @@ location: "Shenzhen"
 link: https://group.pingan.com
 ---
 
-Algorithm Engineer Intern (NLP Focused), advised by Zhitao Li.
+Algorithm Engineer Intern (NLP Focused), advised by Senior Algorithm Engineer Zhitao Li.
