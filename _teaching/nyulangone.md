@@ -8,6 +8,6 @@ date: 2024-05-01
 link: https://med.nyu.edu
 ---
 
-Research Assistant (NLP for Healthcare Focused), advised by <a href="https://seyiqi.github.io" target="_blank">Yiqiu Shen</a>.
+Research Assistant (NLP for Healthcare Focused), advised by Professor <a href="https://seyiqi.github.io" target="_blank">Artie Shen</a>.
 
 
