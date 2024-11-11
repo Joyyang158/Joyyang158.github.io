@@ -8,4 +8,4 @@ date: 2024-05-01
 link: https://sra.samsung.com
 ---
 
-Researcher Intern (LLMs Focused), advised by Research Scientist <a href="https://t7hua.github.io" target="_blank">Ting Hua</a> and co-advised by Professor <a href="https://gaosh.github.io" target="_blank">Shangqian Gao</a>.
+Researcher Intern (LLMs Focused), advised by <a href="https://t7hua.github.io" target="_blank"> Research Scientist Ting Hua</a> and co-advised by <a href="https://gaosh.github.io" target="_blank"> Professor Shangqian Gao</a>.
